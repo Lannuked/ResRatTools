@@ -35,7 +35,7 @@ int main()
     cout << "Input Value: ";
     cin >> resVal;
 
-    ratioSeperator = ratioIn.find(":");
+    ratioSeperator = static_cast<int>(ratioIn.find(":"));
 
     double RatVals[] = { cutStringUp(0, ratioSeperator), cutStringUp(ratioSeperator + 1) };
     vector < string > FinalVals = {};

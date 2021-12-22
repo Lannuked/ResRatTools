@@ -25,7 +25,7 @@ int main()
     int splitCropTo;
     string ratioIn;
     string cropTo;
-    cout << "This goes good with ResCalc!\n";
+    cout << "This goes good with RatCalc!\n";
     cout << "Insert initial resolution (ex. 1920x1080): ";
     cin >> ratioIn;
     cout << "Insert resolution to crop to (ex. 1280x720): ";

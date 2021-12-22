@@ -12,4 +12,4 @@ ResCalc: Takes a resolution and gets the ratio of it.
 
 CropCalc: Takes two resolutions and then tells you how much you have to crop from the top and bottom/left and right in OBS or a video editor.
 
-![CropCalc_g3KanvsvvR](https://user-images.githubusercontent.com/26724236/147045156-0c46f1bf-63ac-44db-a2d8-0c42e629acff.png)
+![CropCalc_CYODQegS9x](https://user-images.githubusercontent.com/26724236/147045842-01ff4709-2078-4241-adf1-13d139cf3ce8.png)

@@ -38,8 +38,8 @@ int main()
     double finalResOne = (RatVals[0] - CropVals[0]) / 2;
     double finalResTwo = (RatVals[1] - CropVals[1]) / 2;
 
-    cout << "Top: " << finalResOne << "\nBottom: " << finalResOne;
-    cout << "\nLeft: " << finalResTwo << "\nRight: " << finalResTwo;
+    cout << "Top and Bottom: " << finalResTwo;
+    cout << "\nLeft and Right: " << finalResOne;
     cout << "\nYou might have to experiment with the numbers a slight bit!";
     cout << "\nPress any key to continue . . . ";
     cin.ignore();
